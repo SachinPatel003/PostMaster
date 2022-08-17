@@ -1,0 +1,5 @@
+- Getting data by API calling Like POSTMAN APP
+- Post Request
+- Get Request
+- Print data in TextArea
+- Accept Json as well as costom perameter for POST request
